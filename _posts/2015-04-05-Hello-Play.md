@@ -27,8 +27,7 @@ export PATH="$PATH:/opt/apps/activator-1.3.2"
     {% endhighlight %}
 * From shell, execute the next command
    {% highlight bash %} albeip$ activator ui{% endhighlight %}
-Next screen is showed: ![Activator](/images/2015-04-05/activator01.png) 
-
+Next screen is showed: ![Activator]({{site.url}}/assets/2015-04-05/activator01.png) 
 * Select a template (Computer Database Java)
 In my case I chose the next path: /home/albeip/code/activator/activator-1.3.2/wsHelloWorld/computer-database-java. Push the red button named "Create app"
 
@@ -98,7 +97,7 @@ Creating a REST Web Service
 
 * Create a new class named RestController. It will extend the `play.mvc.Controller`:
 
-![Activator]({{site.baseurl}}//images/2015-04-05/activator16.png)
+![Activator]({{site.url}}/assets/2015-04-05/activator16.png)
 
 * Create the static method named `getData()`
 
