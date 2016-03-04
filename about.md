@@ -3,10 +3,22 @@ layout: page
 title: About this blog
 ---
 
-This site was created to help you learn Jekyll, and is a companion of the [lynda.com](http://www.lynda.com) course **Jekyll for Web Designers**. While this blog has many posts detailing Jekyll and its components, it's not designed to be a step-by-step tutorial for using Jekyll. For that, check out the lynda.com course. The main repo for this site contains the blog and the exercise files for the course. 
+I never imagined the experience I had when for the first time I touched a computer a long time ago that it was going to let me discover my passion. Today I still enjoy developing software. I continue learning and applying new theories and strategies as a result of its evolution. The software development is huge, for that reason is imposible try to cover all the different branches that has been emerging. Actually I am concentrated with Java, Web Services, continuous integration and the implementation of new architectures such as reactive programming.
 
-I designed the blog as a teaching tool first and foremost, but it is designed to be simple, clean, and responsive. I used [HTML5 Boilerplate](https://html5boilerplate.com/ "html5 boilerplate") and [Normalize.css](http://necolas.github.io/normalize.css/ "normalize.css") as my starting points and narrowed them down to what I considered to be the essentials. The menu is manually generated but is responsive and built on pure CSS. The HTML focuses on semantics and is built with accessibility in mind. The CSS is not based on any framework, and only contains what the blog needs, there are no layout grids or extra UI classes. SASS is used only for code syntax highlighting, and can be stripped out easily as it is imported into the main.css file. The file links to a custom [Modernizr](http://modernizr.com/ "modernizr") library that isn't used in the final build but is available if you need it. I recommend replacing it with the Modernizr build of your choice. The entire blog was built to be customized as you wish, and not force you into any conventions or frameworks. Feel free to clone this repo and experiment and reuse the blog as you see fit.
+I pretend use this space to share ideas about what I like to do. My passion is the technology and not stop surprising me new things that are discovered. I want to share with you comments, opinions, and proofs of concepts so far I have been doing about software development and its processes into this disruptive age.
 
 ### About the Author
 
-My name is James Williamson. I'm a Senior Author at lynda.com and I've been writing and teaching web design and development for just over 15 years. I love what I do and hope you find this blog and course useful. If you see me out at a conference or event please say hello. My favorite form of communication is Twitter, where you'll find me ranting 140 characters at a time at [@jameswillweb](https://twitter.com/jameswillweb "my twitter profile"). 
+My name is Alberto Ibanez. I am computer engineer developing software and giving support to different companies in different sectors since 1999.
+
+At the beginning of 2015 year, I started to create this site for two principal reasons: 
+
+1. When I discover a new concept, it's not enough taking only the theory, it must be linked with a proof of concept (i.e. the practice) and for our times it's easy using recent new tools.
+
+2. This site is a very useful tool to share the knowledge. The discoveries happen quickly and it's important have a place where it could be shared not only to me, but it also to anyone interested on these topics.
+
+
+This blog is designed to be simple, clean, and responsive. 
+
+
+*feedback@albevia.com*{: style="color: green"}

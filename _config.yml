@@ -1,6 +1,7 @@
 # Site settings
 title: Albevia Blog
-description: "Companion blog to the lynda.com course, Jekyll for Web Designers. This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
+email: feedback@albevia.com
+description: "Sharing concrete ideas related to software development for this disruptive age."
 baseurl: "/blog" 
 url: "http://albevia.github.io/blog" 
 tagline: Software Building Blocks for Disruptive Age 
